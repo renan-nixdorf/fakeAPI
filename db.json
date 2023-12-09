@@ -4,7 +4,7 @@
       "name": "Pyramidēs Aegypti",
       "desc": "As pirâmides do Egito são estruturas antigas e icônicas que foram construídas como túmulos para faraós e outros indivíduos de destaque durante o Antigo Egito.",
       "id": "",
-      "image": "./images/image1.jpg"
+      "image": "https://raw.githubusercontent.com/renan-nixdorf/fakeAPI/main/images/image1.jpg"
     },
     {
       "name": "Arc de Triomphe",
